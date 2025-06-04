@@ -1,0 +1,2 @@
+# ApiUrls
+Public Api urls
