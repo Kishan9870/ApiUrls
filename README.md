@@ -1,2 +1,3 @@
-VALIDATE_API_URL = 'https://103.250.149.49:7117/LicenseKey/validate-license-key';
-REGISTER_API_URL = 'https://103.250.149.49:7117/LicenseKey/register-user-license';
+VALIDATE_API_URL:_:sQFWtY3XGsuco4Xs/CoCyvfkIhc/CXdqurPS+pt7zuQ07PtnFWY21xPsD5/TB5RSTtLdTEqrQ/JlkjyQD2ji/A==
+REGISTER_API_URL:_:sQFWtY3XGsuco4Xs/CoCyvfkIhc/CXdqurPS+pt7zuTAwv4lwJENqI3AA5L5Fc1xGmqutk6wlt+dyY8/Mhvbdw==
+
